@@ -30,7 +30,7 @@ Macを購入したあなたへ届け...！
 
 ## zen browser
 
-<https://zen-browser.app/>
+https://zen-browser.app/
 
 firefoxベースのWebブラウザです。
 個人的にはchromeよりも圧倒的に使いやすいと感じています。
