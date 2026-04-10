@@ -15,8 +15,8 @@ published: true
 
 https://coolestprojects2026.coderdojo.jp/news/highlights
 
-Coolest Projectsは、元々CoderDojoコミュニティから生まれた子供向けの作品展示イベントです。
-今回はCoderDojo Japanがサポートに入り、CPJ実行委員会が中心となって開催されました。
+Coolest Projectsは、元々CoderDojoコミュニティから生まれた、18歳以下のための作品展示イベントです！
+今回はCoderDojo Japanがサポートに入り、Coolest Projects Japan実行委員会が中心となって開催されました。
 
 最初は書くつもりがなかったのですが（すみません）、参加者の方々だけでなく周りの運営の方々も記事をたくさん書いてくださっていたので、僕も運営として色々書いていこうかなと思います
 
